@@ -1,6 +1,10 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Amit Kumar Jaiswal
+  affiliation: Mozilla Representative
+  github: amitkumarj441
   interests:
     - Programming
     - Open Science
+    - Data Science
+    - Cloud Native
+    - Distributed Systems
+    - Decentralization
